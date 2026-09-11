@@ -1,17 +1,16 @@
-# hirely
+# Hirely
 
-A new Flutter project.
+A Flutter application that helps users discover job opportunities and apply for jobs.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* Splash Screen
+* Login
+* Sign Up
+* Home
+* Messages
+* Profile
 
-A few resources to get you started if this is your first Flutter project:
+## About
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hirely is a mobile application designed to help users find job opportunities and apply for jobs easily. The app provides users with a simple interface for discovering opportunities, managing applications, communicating through messages, and managing their profile.
